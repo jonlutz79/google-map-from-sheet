@@ -1,0 +1,16 @@
+.info-window-title {
+  color: maroon;
+  font-size: 16px;
+  font-weight: bold;
+  padding-bottom: 5px;
+}
+
+.info-window-photo {
+  /float: left;
+  padding-right: 5px;
+}
+
+.info-window-description {
+  /float: left;
+  font-size: 13px;
+}
